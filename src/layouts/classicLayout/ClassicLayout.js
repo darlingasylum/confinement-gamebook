@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Button from './../../components/Button/Button';
+import Sound from './../../components/Sound/Sound';
 
 import './ClassicLayout.css';
 
@@ -10,7 +11,7 @@ function ClassicLayout({ children }) {
       <h2 className='title'> Le confinement dont vous êtes le héros</h2>
 
       {children}
-
+      <Sound></Sound>
       <div className='footer'>
         <Button to='/'>Revenir à l'accueil</Button>
 
