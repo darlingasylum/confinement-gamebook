@@ -9,7 +9,7 @@ function Sound() {
   function toggleSound() {
     sound &&
       alert(
-        'QUOI ?? Tu veux pas écouter la musique ? Vas bien te faire cuire le cul alors !'
+        'QUOI ?? Tu veux pas écouter cette musique débile créée spécialement et avec amour par Romain Baousson ? Vas bien te faire cuire le cul alors !'
       );
     setSound(!sound);
   }
@@ -17,9 +17,9 @@ function Sound() {
   return (
     <div className='soundWrapper' onClick={toggleSound}>
       {sound ? (
-        <i class='fas fa-volume-up'></i>
+        <i className='fas fa-volume-up'></i>
       ) : (
-        <i class='fas fa-volume-mute'></i>
+        <i className='fas fa-volume-mute'></i>
       )}
       <div>
         <audio src={StupidMusic} autoPlay muted={!sound} />
