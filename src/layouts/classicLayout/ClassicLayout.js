@@ -10,10 +10,11 @@ function ClassicLayout({ children }) {
       <h2 className='title'> Le confinement dont vous êtes le héros</h2>
 
       {children}
+
       <Sound></Sound>
       <div className='footer'>
         <Link to='/' className='questionLink'>
-          <button className='button'>Revenir à l'accueil</button>
+          Revenir à l'accueil
         </Link>
 
         <a
@@ -21,7 +22,7 @@ function ClassicLayout({ children }) {
           target='_blank'
           rel='noopener noreferrer'
         >
-          <p>lien vers l'insta de Marine Baousson</p>
+          lien vers l'insta de Marine Baousson
         </a>
       </div>
     </div>
