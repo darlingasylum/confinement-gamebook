@@ -1,12 +1,15 @@
-import React from "react";
-import "./Button.css";
+import React from 'react';
+import './Button.css';
 
-function Button({ answer, updateQuestion }) {
-  var updateQuestion = updateQuestion;
+function Button({ answer, setNextQuestion }) {
+  if (!answer) return null;
 
   return (
-    <div className="questionLink">
-      <button className="button" onClick={() => updateQuestion(answer.next)}>
+    <div className='questionLink'>
+      <button
+        className='button'
+        onClick={() => setNextQuestion(answer.nextQuestion)}
+      >
         {answer.text}
       </button>
     </div>
