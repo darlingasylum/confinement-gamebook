@@ -1,0 +1,71 @@
+{
+  "a1": {
+    "text": "Vous êtes Céline Dion",
+    "nextQuestion": "q1"
+  },
+
+  "a2": {
+    "text": "Vous êtes Emmanuel Macron, Edouard Philippe, ou n'importe quelle personne membre du gouvernement",
+    "nextQuestion": "q3"
+  },
+  "a3": {
+    "text": "Vous faites partie du personnel soignant, ou des personnes qui assurent le fonctionnement de la France",
+    "nextQuestion": "q4"
+  },
+  "a6": {
+    "text": "Vous n'êtes aucune de ces personnes",
+    "nextQuestion": "q6"
+  },
+  "a7": {
+    "text": "Rentrez chez vous",
+    "nextQuestion": "q2"
+  },
+  "a8": {
+    "text": "Vous mourez durement",
+    "nextQuestion": "q10"
+  },
+  "a9": { "scenario": "enfants", "text": "oui" },
+
+  "a10": { "scenario": "enfants", "text": "non" },
+
+  "a11": { "scenario": "john maclane", "text": "rip", "nextQuestion": "q0" },
+
+  "a12": {
+    "text": "Rentre chez toi",
+    "nextQuestion": "q2"
+  },
+
+  "a13": {
+    "text": "Vous restez chez vous",
+    "nextQuestion": "q2"
+  },
+  "a14": {
+    "text": "Vous vous rendez dans votre résidence secondaire sur l'Ile de Ré",
+    "nextQuestion": "q2"
+  },
+
+  "a15": {
+    "text": "Rien à foutre ! vous sortez de chez vous comme si de rien n'était",
+    "nextQuestion": "q2"
+  },
+
+  "a16": { "scenario": "macron", "text": "Oké", "nextQuestion": "q0" },
+
+  "a17": {
+    "scenario": "soignants",
+    "text": "Je suis un héros de la france",
+    "nextQuestion": "q0"
+  },
+
+  "a18": {
+    "scenario": "john mclane",
+    "text": "Je mets mes chausettes et je me confine",
+    "nextQuestion": "q6"
+  },
+
+  "a19": {
+    "scenario": "john mclane",
+    "text": "à l'ananas",
+    "nextQuestion": "q10"
+  }
+}

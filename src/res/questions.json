@@ -1,0 +1,46 @@
+{
+  "q0": {
+    "text": "Oh non il y a le corona virus !",
+    "answers": ["a1", "a2", "a3", "a4", "a5", "a6"]
+  },
+  "q1": {
+    "text": "You're a Queen. On t'aime Céline !!! Mais tu es quand même confinée.",
+    "answers": ["a7"]
+  },
+  "q2": {
+    "text": "Vous êtes confiné.e ! que faites-vous?",
+    "answers": ["a12", "a13", "a14"]
+  },
+  "q3": {
+    "text": "LOL ! va plutôt bosser sur la revalorisation du système de santé plutôt que de faire des tests sur internet",
+    "answers": ["a15"]
+  },
+  "q4": {
+    "text": "Vous faites partie du personnel soignant, ou des personnes qui assurent le fonctionnement de la France",
+    "answers": ["a16"]
+  },
+  "q5": {
+    "text": "Exceptionnellement, mets des chaussettes, tu verras, ça peut servir.",
+    "answers": ["a18"]
+  },
+  "q6": {
+    "text": "what would John Maclane do?",
+    "answers": ["a7", "a8"]
+  },
+  "q7": {
+    "text": "une pizza à quoi?",
+    "answers": ["a19"]
+  },
+  "q8": {
+    "text": "vous avez des enfants?",
+    "answers": []
+  },
+  "q9": {
+    "text": "non je veux pas voir leur photo",
+    "answers": []
+  },
+  "q10": {
+    "text": "vous échappez à la mort \"miraculeusement\"",
+    "answers": ["a15"]
+  }
+}

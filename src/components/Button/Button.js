@@ -1,12 +1,18 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import './Button.css';
 
-function Button({ children, to }) {
+function Button({ answer, setNextQuestion }) {
+  if (!answer) return null;
+
   return (
-    <Link to={to} className='questionLink'>
-      <button className='button'>{children}</button>
-    </Link>
+    <div className='questionLink'>
+      <button
+        className='button'
+        onClick={() => setNextQuestion(answer.nextQuestion)}
+      >
+        {answer.text}
+      </button>
+    </div>
   );
 }
 
