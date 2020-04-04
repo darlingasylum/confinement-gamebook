@@ -1,0 +1,83 @@
+{
+  "a1": {
+    "scenario": "celine",
+    "text": "Vous êtes Céline Dion",
+    "next": "q1"
+  },
+
+  "a2": {
+    "scenario": "macron",
+    "text": "Vous êtes Emmanuel Macron, Edouard Philippe, ou n'importe quelle personne membre du gouvernement",
+    "next": "q3"
+  },
+  "a3": {
+    "scenario": "soignants",
+    "text": "Vous faites partie du personnel soignant, ou des personnes qui assurent le fonctionnement de la France",
+    "next": "q4"
+  },
+  "a4": {
+    "scenario": "john mclane",
+    "text": "Vous êtes John Maclane",
+    "next": "q5"
+  },
+  "a5": {
+    "scenario": "polanski",
+    "text": "Vous êtes Roman Polanski",
+    "next": "q5"
+  },
+  "a6": {
+    "scenario": "ordinaire",
+    "text": "Vous êtes un être ordinaire, confiné.e chez vous",
+    "next": "q6"
+  },
+  "a7": {
+    "scenario": "john mclane",
+    "text": "Vous commandez une pizza",
+    "next": "q7"
+  },
+  "a8": {
+    "scenario": "john mclane",
+    "text": "Vous mourez durement",
+    "next": "q10"
+  },
+  "a9": { "scenario": "enfants", "text": "oui" },
+
+  "a10": { "scenario": "enfants", "text": "non" },
+
+  "a11": { "scenario": "john maclane", "text": "rip", "next": "q0" },
+
+  "a12": { "scenario": "celine", "text": "Rentre chez toi", "next": "q2" },
+
+  "a13": {
+    "scenario": "celine",
+    "text": "Vous restez chez vous",
+    "next": "q2"
+  },
+  "a14": {
+    "scenario": "celine",
+    "text": "Vous vous rendez dans votre résidence secondaire sur l'Ile de Ré",
+    "next": "q2"
+  },
+
+  "a15": {
+    "scenario": "celine",
+    "text": "Rien à foutre ! vous sortez de chez vous comme si de rien n'était",
+    "next": "q2"
+  },
+
+  "a16": { "scenario": "macron", "text": "Oké", "next": "q0" },
+
+  "a17": {
+    "scenario": "soignants",
+    "text": "Je suis un héros de la france",
+    "next": "q0"
+  },
+
+  "a18": {
+    "scenario": "john mclane",
+    "text": "Je mets mes chausettes et je me confine",
+    "next": "q6"
+  },
+
+  "a19": { "scenario": "john mclane", "text": "à l'ananas", "next": "q10" }
+}

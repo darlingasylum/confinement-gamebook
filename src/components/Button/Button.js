@@ -1,12 +1,15 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import './Button.css';
+import React from "react";
+import "./Button.css";
 
-function Button({ children, to }) {
+function Button({ answer, updateQuestion }) {
+  var updateQuestion = updateQuestion;
+
   return (
-    <Link to={to} className='questionLink'>
-      <button className='button'>{children}</button>
-    </Link>
+    <div className="questionLink">
+      <button className="button" onClick={() => updateQuestion(answer.next)}>
+        {answer.text}
+      </button>
+    </div>
   );
 }
 

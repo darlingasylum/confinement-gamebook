@@ -1,0 +1,53 @@
+{
+  "q0": {
+    "scenario": "home",
+    "text": "Oh non il y a le corona virus !",
+    "next": ["a1", "a2", "a3", "a4", "a5", "a6"]
+  },
+  "q1": {
+    "scenario": "celine",
+    "text": "You're a Queen. On t'aime Céline !!! Mais tu es quand même confinée.",
+    "next": ["a11"]
+  },
+  "q2": {
+    "scenario": "celine",
+    "text": "Vous êtes confiné.e ! que faites-vous?",
+    "next": ["a12", "a13", "a14"]
+  },
+  "q3": {
+    "scenario": "macron",
+    "text": "LOL ! va plutôt bosser sur la revalorisation du système de santé plutôt que de faire des tests sur internet",
+    "next": ["a15"]
+  },
+  "q4": {
+    "scenario": "soignants",
+    "text": "Vous faites partie du personnel soignant, ou des personnes qui assurent le fonctionnement de la France",
+    "next": ["a16"]
+  },
+  "q5": {
+    "scenario": "john mclane",
+    "text": "Exceptionnellement, mets des chaussettes, tu verras, ça peut servir.",
+    "next": ["a18"]
+  },
+  "q6": {
+    "scenario": "john mclane",
+    "text": "what would John Maclane do?",
+    "next": ["a7", "a8"]
+  },
+  "q7": {
+    "scenario": "john mclane",
+    "text": "une pizza à quoi?",
+    "next": ["a19"]
+  },
+  "q8": { "scenario": "enfants", "text": "vous avez des enfants?", "next": [] },
+  "q9": {
+    "scenario": "enfants",
+    "text": "non je veux pas voir leur photo",
+    "next": []
+  },
+  "q10": {
+    "scenario": "john mclane",
+    "text": "vous échappez à la mort \"miraculeusement\"",
+    "next": ["a15"]
+  }
+}
