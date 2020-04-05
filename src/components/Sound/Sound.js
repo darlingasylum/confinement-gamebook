@@ -9,7 +9,7 @@ function Sound() {
   function toggleSound() {
     sound &&
       alert(
-        'QUOI ?? Tu veux pas écouter cette musique débile créée spécialement et avec amour par Romain Baousson ? Vas bien te faire cuire le cul alors !'
+        "QUOI ?? Tu ne veux pas écouter cette douce musique créée spécialement et avec amour par Romain Baousson ? C'est dommage, mais on t'en veut pas"
       );
     setSound(!sound);
   }

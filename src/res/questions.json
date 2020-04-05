@@ -1,7 +1,7 @@
 {
   "q1": {
     "text": "Oopsy, le corona virus est arrivé en France",
-    "answers": ["a3", "a2", "a1", "a54", "a4"]
+    "answers": ["a3", "a2", "a1", "a54", "a4", "a52"]
   },
   "q2": {
     "text": "You're a Queen. On t'aime Céline !!! Mais tu es quand même confinée.",
@@ -121,7 +121,7 @@
   },
   "q31": {
     "text": "OH NON VOUS AVEZ ATTRAPÉ LE CORONAVIRUS ! ",
-    "answers": ["a49", "a50", "a52"]
+    "answers": ["a49", "a50"]
   },
   "q32": {
     "text": "Vous pouvez continuer à avoir une vie normale",
@@ -137,7 +137,7 @@
     "answers": ["a53"]
   },
   "q35": {
-    "text": "Déjà, bravo, car vous êtes John McLane. Quelles étaient les chances pour que John McLane prenne part à cette aventure? C'est trop la classe.",
+    "text": "Déjà, bravo, car vous êtes John McLane. Quelles étaient les chances pour que John McLane prenne part à cette aventure? C'est trop la classe. Vous venez d'arriver en avion, juste avant les annonces de confinement. Une limousine trop classe vous attendait.",
     "answers": ["a55"]
   },
   "q36": {
@@ -161,7 +161,7 @@
     "answers": ["a63", "a62"]
   },
   "q41": {
-    "text": "Je le savais, vous n'êtes pas le vrai John McLane !  si vous étiez vraiment John McLane vous savez que le marcel / pieds nus est in-con-tour-nable. ",
+    "text": "Je le savais, vous n'êtes pas le vrai John McLane !  Si vous étiez vraiment John McLane vous sauriez que le marcel / pieds nus est in-con-tour-nable. ",
     "answers": ["a66"]
   },
   "q42": {
@@ -233,7 +233,7 @@
     "answers": ["a82", "a83"]
   },
   "q56": {
-    "text": "ça fait trop mal ! ",
+    "text": "Ça fait trop mal ! ",
     "answers": ["a84", "a85"]
   },
   "q57": {

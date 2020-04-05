@@ -24,7 +24,7 @@
     "nextQuestion": "q5"
   },
   "a7": {
-    "text": "Allez, ciao",
+    "text": "Allez ciao",
     "externalLink": "www.franceinter.fr/politique/le-medecin-qui-a-interpelle-macron-il-fallait-qu-il-recoive-le-message-du-terrain-il-y-a-urgence"
   },
   "a8": {
@@ -209,14 +209,14 @@
   },
   "a53": {
     "text": "Clique et donne. ",
-    "externalLink": "www.helloasso.com/associations/associationparler/formulaires/1"
+    "externalLink": "www.associationparler.com"
   },
   "a54": {
     "text": "Vous êtes John McLane",
     "nextQuestion": "q35"
   },
   "a55": {
-    "text": "Vous venez d'arriver en avion, juste avant les annonces de confinement. Une limousine trop classe vous escorte jusqu'à votre lieu de confinement. ",
+    "text": "La limousine vous escorte jusqu'au Nakatomi Plaza. ",
     "nextQuestion": "q36"
   },
   "a56": {
@@ -486,5 +486,9 @@
   "a122": {
     "text": "Vous écrivez à vos collègues pour critiquer le fait que le.a boss ne dise rien mais vous vous trompez de chan et vous envoyez ça à toute la boîte",
     "nextQuestion": "q80"
+  },
+  "a123": {
+    "text": "La limousine vous escorte jusqu'à chez vous.",
+    "nextQuestion": "q23"
   }
 }
