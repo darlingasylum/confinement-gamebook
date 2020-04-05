@@ -53,12 +53,12 @@ function Question({ question }) {
       {currentQuestion.text !==
         'Oopsy, le corona virus est arrivé en France' && (
         <>
-          <button onClick={goToPreviousQuestion}>
+          <button className='backButton' onClick={goToPreviousQuestion}>
             Je n'assume pas mon choix : revenir à la question précédente <br />
           </button>
           <p className='helperTextBonus'>
             (attention on ne peut l'utiliser que pour remonter d'une question,
-            aprèa ça ne fonctionne plus)
+            après ça ne fonctionne plus)
           </p>
         </>
       )}

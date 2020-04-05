@@ -29,6 +29,12 @@
   align-items: center;
 }
 
+.backButton {
+  width: 12rem;
+  background: no-repeat;
+  padding: 0.4rem;
+}
+
 .helperTextBonus {
   margin: 0;
   font-size: 0.7rem;
