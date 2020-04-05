@@ -16,3 +16,16 @@
   flex-direction: column;
   align-items: center;
 }
+
+.homeLink {
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  border: 1px solid black;
+  transition: all 0.35s ease 0s;
+}
+
+.homeLink:hover {
+  background: #0a0124;
+  color: #fff;
+}

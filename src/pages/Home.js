@@ -7,10 +7,10 @@ function Home() {
     <div className='homeWrapper'>
       <p>Le confinement dont vous êtes le héros !</p>
       <div className='actions'>
-        <Link className='App-link' to='/game'>
+        <Link className='homeLink' to='/game'>
           Commencer
         </Link>
-        <Link className='App-link' to='/credits'>
+        <Link className='homeLink' to='/credits'>
           Crédits
         </Link>
       </div>

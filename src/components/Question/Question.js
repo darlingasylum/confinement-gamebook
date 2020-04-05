@@ -56,10 +56,6 @@ function Question({ question }) {
           <button className='backButton' onClick={goToPreviousQuestion}>
             Je n'assume pas mon choix : revenir à la question précédente <br />
           </button>
-          <p className='helperTextBonus'>
-            (attention on ne peut l'utiliser que pour remonter d'une question,
-            après ça ne fonctionne plus)
-          </p>
         </>
       )}
     </div>

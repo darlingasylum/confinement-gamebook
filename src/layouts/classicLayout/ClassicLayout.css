@@ -16,7 +16,7 @@
 }
 
 .navigate {
-  margin-top: 3rem;
+  margin-top: 1rem;
   margin-bottom: 3rem;
   display: flex;
   flex-direction: column;
@@ -33,9 +33,9 @@
 }
 
 .navigate a {
-  font-size: 1rem;
+  font-size: 0.7rem;
 
-  color: black;
+  color: #024b8e;
   text-decoration: none;
   text-align: center;
   margin-top: 0.9rem;
