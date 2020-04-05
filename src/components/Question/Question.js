@@ -12,6 +12,9 @@ function Question({ question }) {
   // we put this question in state
   const [currentQuestion, setCurrentQuestion] = useState(question);
 
+  if (!currentQuestion) {
+    return null;
+  }
   // we generate an array of answers from the "next" key
   // answers are looking like this :
   // [{text: "Vous êtes Céline Dion", nextQuestion: "q1"}, {text: "Vous êtes Emmanuel Macron, Edouard Philippe, ou n'importe quelle personne membre du gouvernement", nextQuestion: "q3"}, ...]

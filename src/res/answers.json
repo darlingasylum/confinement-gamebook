@@ -1,9 +1,8 @@
 {
   "a1": {
     "text": "Vous êtes Céline Dion",
-    "nextQuestion": "q1"
+    "nextQuestion": "q2"
   },
-
   "a2": {
     "text": "Vous êtes Emmanuel Macron, Edouard Philippe, ou n'importe quelle personne membre du gouvernement",
     "nextQuestion": "q3"
@@ -12,60 +11,480 @@
     "text": "Vous faites partie du personnel soignant, ou des personnes qui assurent le fonctionnement de la France",
     "nextQuestion": "q4"
   },
-  "a6": {
+  "a4": {
     "text": "Vous n'êtes aucune de ces personnes",
-    "nextQuestion": "q6"
+    "nextQuestion": "q5"
+  },
+  "a5": {
+    "text": "Vous pouvez jouer quand même pour rigoler",
+    "nextQuestion": "q5"
+  },
+  "a6": {
+    "text": "Rentrez chez vous",
+    "nextQuestion": "q5"
   },
   "a7": {
-    "text": "Rentrez chez vous",
-    "nextQuestion": "q2"
+    "text": "Allez, ciao",
+    "externalLink": "www.franceinter.fr/politique/le-medecin-qui-a-interpelle-macron-il-fallait-qu-il-recoive-le-message-du-terrain-il-y-a-urgence"
   },
   "a8": {
-    "text": "Vous mourez durement",
-    "nextQuestion": "q10"
-  },
-  "a9": { "scenario": "enfants", "text": "oui" },
-
-  "a10": { "scenario": "enfants", "text": "non" },
-
-  "a11": { "scenario": "john maclane", "text": "rip", "nextQuestion": "q0" },
-
-  "a12": {
-    "text": "Rentre chez toi",
-    "nextQuestion": "q2"
-  },
-
-  "a13": {
     "text": "Vous restez chez vous",
-    "nextQuestion": "q2"
-  },
-  "a14": {
-    "text": "Vous vous rendez dans votre résidence secondaire sur l'Ile de Ré",
-    "nextQuestion": "q2"
-  },
-
-  "a15": {
-    "text": "Rien à foutre ! vous sortez de chez vous comme si de rien n'était",
-    "nextQuestion": "q2"
-  },
-
-  "a16": { "scenario": "macron", "text": "Oké", "nextQuestion": "q0" },
-
-  "a17": {
-    "scenario": "soignants",
-    "text": "Je suis un héros de la france",
-    "nextQuestion": "q0"
-  },
-
-  "a18": {
-    "scenario": "john mclane",
-    "text": "Je mets mes chausettes et je me confine",
     "nextQuestion": "q6"
   },
-
-  "a19": {
-    "scenario": "john mclane",
-    "text": "à l'ananas",
+  "a9": {
+    "text": "Vous allez dans votre résidence secondaire",
+    "nextQuestion": "q11"
+  },
+  "a10": {
+    "text": "Rien à foutre ! Vous sortez de chez vous comme si de rien n'était ",
+    "nextQuestion": "q16"
+  },
+  "a11": {
+    "text": "Vous avez des enfants",
+    "nextQuestion": "q7"
+  },
+  "a12": {
+    "text": "Vous télétravaillez",
+    "nextQuestion": "q72"
+  },
+  "a13": {
+    "text": "Vous êtes en chomage partiel ou au chomage tout court",
+    "nextQuestion": "q43"
+  },
+  "a14": {
+    "text": "Tout se passe bien c'est génial de connecter comme ça avec les enfants !! mais quel plaisir infini de leur faire apprendre par le jeu !",
+    "nextQuestion": "q8"
+  },
+  "a15": {
+    "text": "C'est horrible, vous avez envie de pleurer tout le temps.",
+    "nextQuestion": "q9"
+  },
+  "a16": {
+    "text": "Vous envoyez des mails à l'instituteur.rice pour qu'il.elle vous réexplique comment on fait les divisions et où on doit placer la retenue parce que vous avez tout oublié  ",
     "nextQuestion": "q10"
+  },
+  "a17": {
+    "text": "Vous les engueulez pour rien pour ne pas qu'ils comprennent que vous n'avez rien capté à la leçon du jour",
+    "nextQuestion": "q10"
+  },
+  "a18": {
+    "text": "Vous leur mettez un film sur Netflix. ou deux. ou trois. OK TOUTE LA SÉRIE DES HARRY POTTER. ",
+    "nextQuestion": "q10"
+  },
+  "a19": {
+    "text": "Non, plutôt crever !",
+    "nextQuestion": "q12"
+  },
+  "a20": {
+    "text": "Oh oui, tiens, pourquoi pas ?",
+    "nextQuestion": "q13"
+  },
+  "a21": {
+    "text": "Commencez votre journée alors !",
+    "nextQuestion": "q6"
+  },
+  "a22": {
+    "text": "Vous êtes Leïla Slimani",
+    "nextQuestion": "q14"
+  },
+  "a23": {
+    "text": "Vous êtes Marie Darrieussecq",
+    "nextQuestion": "q14"
+  },
+  "a24": {
+    "text": "Vous êtes Wadji Mouawad",
+    "nextQuestion": "q15"
+  },
+  "a25": {
+    "text": "Allez faire quelque chose de vos journées au lieu de nous jeter votre bourgeoisie à la gueule",
+    "nextQuestion": "q6"
+  },
+  "a26": {
+    "text": "Allez vivre votre vie passionnante pour pouvoir nous raconter ça de manière si poétique",
+    "nextQuestion": "q6"
+  },
+  "a27": {
+    "text": "Vous avez votre attestation",
+    "nextQuestion": "q18"
+  },
+  "a28": {
+    "text": "Vous n'avez pas votre attestation",
+    "nextQuestion": "q17"
+  },
+  "a29": {
+    "text": "Vous rentrez chez vous.",
+    "nextQuestion": "q23"
+  },
+  "a30": {
+    "text": "oui",
+    "nextQuestion": "q20"
+  },
+  "a31": {
+    "text": "non",
+    "nextQuestion": "q19"
+  },
+  "a32": {
+    "text": "Vous allez faire des achats de première nécessité",
+    "nextQuestion": "q21"
+  },
+  "a33": {
+    "text": "Vous allez faire un jogging",
+    "nextQuestion": "q25"
+  },
+  "a34": {
+    "text": "Vous allez promener le chien",
+    "nextQuestion": "q28"
+  },
+  "a35": {
+    "text": "Vous achetez des tampons",
+    "nextQuestion": "q22"
+  },
+  "a36": {
+    "text": "Vous achetez des pâtes, de la farine et du PQ en très grosse quantité",
+    "nextQuestion": "q24"
+  },
+  "a37": {
+    "text": "Vous faites des courses normales, puis vous rentrez à la maison",
+    "nextQuestion": "q23"
+  },
+  "a38": {
+    "text": "\"ça va pour cette fois, mais la prochaine fois essayez de ne pas avoir vos règles pendant le confinement.\" Vous rentrez chez vous. ",
+    "nextQuestion": "q23"
+  },
+  "a39": {
+    "text": "BIM ! 135 euros d'amende. Vous rentrez chez vous comme un.e con.ne",
+    "nextQuestion": "q23"
+  },
+  "a40": {
+    "text": "Tu rigoles j'en fais tout le temps !",
+    "nextQuestion": "q26"
+  },
+  "a41": {
+    "text": "Ouais, j'en fais JA-MAIS, mais je voulais sortir, tsé.",
+    "nextQuestion": "q27"
+  },
+  "a42": {
+    "text": "Rentrez chez vous à petites foulées et arrêtez de vous la pêter un peu.",
+    "nextQuestion": "q23"
+  },
+  "a43": {
+    "text": "Vous faites une crise d'asthme et rentrez chez vous comme un.e couillon.ne.",
+    "nextQuestion": "q23"
+  },
+  "a44": {
+    "text": "Vous mettez le caca à la poubelle et vous rentrez chez vous.",
+    "nextQuestion": "q23"
+  },
+  "a45": {
+    "text": "Vous mettez le chien à la poubelle.",
+    "nextQuestion": "q29"
+  },
+  "a46": {
+    "text": "Retournez chercher votre chien, mettez le caca à la poubelle, et rentrez à la maison. ",
+    "nextQuestion": "q23"
+  },
+  "a47": {
+    "text": "Vous désinfectez tout ce que vous trouvez et vous vous lavez les mains 3 fois !",
+    "nextQuestion": "q30"
+  },
+  "a48": {
+    "text": "Vous oubliez de vous laver les mains et vous vous mettez un doigt dans l'oeil.",
+    "nextQuestion": "q31"
+  },
+  "a49": {
+    "text": "OUF, VOUS ÊTES PORTEUR SAIN !",
+    "nextQuestion": "q32"
+  },
+  "a50": {
+    "text": "OUPSY DOOPSIE VOUS AVEZ DE LA FIÈVRE, LA TOUX SÈCHE ET TOUT LE TOUTIM ! ",
+    "nextQuestion": "q33"
+  },
+  "a51": {
+    "text": "Aidez les médecins à trouver un vaccin, à prendre en charge, et à accompagner les malades décemment.",
+    "externalLink": "www.aphp.fr/actualite/creation-dun-fonds-durgence-sur-le-coronavirus-covid-19"
+  },
+  "a52": {
+    "text": "Vous êtes Roman Polanski",
+    "nextQuestion": "q34"
+  },
+  "a53": {
+    "text": "Clique et donne. ",
+    "externalLink": "www.helloasso.com/associations/associationparler/formulaires/1"
+  },
+  "a54": {
+    "text": "Vous êtes John McLane",
+    "nextQuestion": "q35"
+  },
+  "a55": {
+    "text": "Vous venez d'arriver en avion, juste avant les annonces de confinement. Une limousine trop classe vous escorte jusqu'à votre lieu de confinement. ",
+    "nextQuestion": "q36"
+  },
+  "a56": {
+    "text": "Vous vous habillez en costard cravate, sobre et élégant. ",
+    "nextQuestion": "q37"
+  },
+  "a57": {
+    "text": "Décontracté, vous faites péter le marcel blanc. Et quitte à glander, vous faites le point avec vos orteils, pieds nus. ",
+    "nextQuestion": "q38"
+  },
+  "a58": {
+    "text": "Vous décidez de vous en mêler.",
+    "nextQuestion": "q39"
+  },
+  "a59": {
+    "text": "C'est triste, mais sortir, c'est jouer avec le virus. Ce sera pour une prochaine fois... Hop, rentrez chez vous !",
+    "nextQuestion": "q40"
+  },
+  "a60": {
+    "text": "Vous ne voulez pas risquer la prune... Hop, rentrez chez vous ! ",
+    "nextQuestion": "q5"
+  },
+  "a61": {
+    "text": "Vous les alpaguez pour détourner leur attention : Yippee Ki Yay, pauvres cons !",
+    "nextQuestion": "q40"
+  },
+  "a62": {
+    "text": "Vous êtes en costard cravate.",
+    "nextQuestion": "q41"
+  },
+  "a63": {
+    "text": "Vous êtes en marcel, pieds nus.",
+    "nextQuestion": "q42"
+  },
+  "a64": {
+    "text": "Fidèle à vous-même, vous êtes au mauvais endroit, au mauvais moment  ",
+    "nextQuestion": "q31"
+  },
+  "a65": {
+    "text": "En fait, vous changez d'avis, revenons en arrière et vous ne sortez pas du Nakatomi Plaza. ",
+    "nextQuestion": "q43"
+  },
+  "a66": {
+    "text": "Vous vous mettez en pyjama",
+    "nextQuestion": "q44"
+  },
+  "a67": {
+    "text": "Vous décidez de regarder un truc sur Netflix ",
+    "nextQuestion": "q45"
+  },
+  "a68": {
+    "text": "Vous choisissez \"The Plateform\"",
+    "nextQuestion": "q46"
+  },
+  "a69": {
+    "text": "Vous choisissez \"Qu'est ce qu'on a fait au bon dieu\"",
+    "nextQuestion": "q49"
+  },
+  "a70": {
+    "text": "Vous choisissez \"Koğuştaki Mucize\", mais quand on vous demandera le titre vous direz \"le film turc\"",
+    "nextQuestion": "q50"
+  },
+  "a71": {
+    "text": "Vous flippez de ce que vous voyez",
+    "nextQuestion": "q47"
+  },
+  "a72": {
+    "text": "Vous n'avez peur de rien, vous êtes comme Jean-Claude Vandamme",
+    "nextQuestion": "q48"
+  },
+  "a73": {
+    "text": "Réconfortez vous avec du chocolat et quand ça ira mieux, faites autre chose",
+    "nextQuestion": "q44"
+  },
+  "a74": {
+    "text": "Mais continuez votre journée, qu'est ce que vous voulez que je vous dise...",
+    "nextQuestion": "q44"
+  },
+  "a75": {
+    "text": "Vous kiffez ! ",
+    "nextQuestion": "q52"
+  },
+  "a76": {
+    "text": "Vous n'avez rien ressenti",
+    "nextQuestion": "q51"
+  },
+  "a77": {
+    "text": "Oh la la trop d'émotions !",
+    "nextQuestion": "q47"
+  },
+  "a78": {
+    "text": "Vous faites la cure de sebum ",
+    "nextQuestion": "q53"
+  },
+  "a79": {
+    "text": "Vous faites une sieste",
+    "nextQuestion": "q54"
+  },
+  "a80": {
+    "text": "Continuez votre journée ",
+    "nextQuestion": "q44"
+  },
+  "a81": {
+    "text": "Vous suivez un cours de sport sur Instagram",
+    "nextQuestion": "q55"
+  },
+  "a82": {
+    "text": "Vous vous cognez le genou contre un meuble",
+    "nextQuestion": "q56"
+  },
+  "a83": {
+    "text": "Vous vous sentez très con.ne dans votre vieux legging à faire des demi-abdos ratés sur votre tapis de salon mais personne n'était là pour voir alors vous survivez à votre propore honte et vous continuez votre journée",
+    "nextQuestion": "q44"
+  },
+  "a84": {
+    "text": "Vous allez engorger les urgences",
+    "nextQuestion": "q31"
+  },
+  "a85": {
+    "text": "Vous vous auto-faites un bisou magique et HOP, ça va mieux !",
+    "nextQuestion": "q54"
+  },
+  "a86": {
+    "text": "Vous bricolez un truc",
+    "nextQuestion": "q57"
+  },
+  "a87": {
+    "text": "C'est nickel !",
+    "nextQuestion": "q58"
+  },
+  "a88": {
+    "text": "Vous vous êtes foulé l'auriculaire ",
+    "nextQuestion": "q59"
+  },
+  "a89": {
+    "text": "Vous sortez votre machine et vous cousez des masques ",
+    "nextQuestion": "q60"
+  },
+  "a90": {
+    "text": "Maintenant, si ! Cliquez !",
+    "externalLink": "/www.instagram.com/tv/B91ZSXIKQLj/?utm_source=ig_web_copy_link"
+  },
+  "a91": {
+    "text": "Sinon, il y a aussi ce tuto ! ",
+    "externalLink": "www.instagram.com/tv/B-Hbr96Khtb/?utm_source=ig_web_copy_link"
+  },
+  "a92": {
+    "text": "Vous avez déjà cliqué ou vous aviez déjà un tuto ",
+    "nextQuestion": "q54"
+  },
+  "a93": {
+    "text": "Vous sortez de chez vous ",
+    "nextQuestion": "q61"
+  },
+  "a94": {
+    "text": "Vous êtes inspiré.e par Top Chef et vous vous lancez dans de la grande cuisine",
+    "nextQuestion": "q62"
+  },
+  "a95": {
+    "text": "Vous faites un banana bread",
+    "nextQuestion": "q63"
+  },
+  "a96": {
+    "text": "Vous faites votre propre pain ",
+    "nextQuestion": "q63"
+  },
+  "a97": {
+    "text": "Vous faites un steak de Pangolin",
+    "nextQuestion": "q66"
+  },
+  "a98": {
+    "text": "Vous le mangez",
+    "nextQuestion": "q64"
+  },
+  "a99": {
+    "text": "Vous ne le mangez pas",
+    "nextQuestion": "q65"
+  },
+  "a100": {
+    "text": "Il est délicieux",
+    "nextQuestion": "q65"
+  },
+  "a101": {
+    "text": "Il est dégueu",
+    "nextQuestion": "q65"
+  },
+  "a102": {
+    "text": "Trop tard pour recracher ! ",
+    "nextQuestion": "q31"
+  },
+  "a103": {
+    "text": "Vous regardez koh lanta",
+    "nextQuestion": "q67"
+  },
+  "a104": {
+    "text": "Il est 20h, vous applaudissez les soignants",
+    "nextQuestion": "q68"
+  },
+  "a105": {
+    "text": "Vous profitez de cet élan pour faire un don à ceux.elles qui en ont besoin ",
+    "externalLink": "www.acceptess-t.com/aide-sociale?fbclid=IwAR0Ie7hNzlBP0POUFIF-ZB6-nVmDLUPwh8VfYsivFy0dXPeQCbAACvTUUpA"
+  },
+  "a106": {
+    "text": "Vous vous branlez",
+    "nextQuestion": "q69"
+  },
+  "a107": {
+    "text": "Vous scrollez sur les réseaux ",
+    "nextQuestion": "q70"
+  },
+  "a108": {
+    "text": "CLIQUEZ",
+    "externalLink": "//www.facebook.com/teva.fr/videos/492900974670983/"
+  },
+  "a109": {
+    "text": "Vous jouez à Animal Crossing",
+    "nextQuestion": "q71"
+  },
+  "a110": {
+    "text": "Vous kiffez, c'est trop mignon ! Vous continez à ne rien foutre ",
+    "nextQuestion": "q44"
+  },
+  "a111": {
+    "text": "Vous réalisez au bout de 40h de jeu que son fonctionnement est bassement capitaliste, et que Tom Nook est un putain de rentier #RendsLesClochettes",
+    "nextQuestion": "q47"
+  },
+  "a112": {
+    "text": "Internet merde parce que vous n'avez pas la fibre",
+    "nextQuestion": "q74"
+  },
+  "a113": {
+    "text": "Vous réalisez que vous avez un Bullshit Job",
+    "nextQuestion": "q78"
+  },
+  "a114": {
+    "text": "Certains collègues oublient de muter leur micros pendant les réunions en visio. ",
+    "nextQuestion": "q79"
+  },
+  "a115": {
+    "text": "Vous êtes en réunion avec toute la boîte sur Slack et votre conjoint.e passe devant votre webcam en sous vêtements",
+    "nextQuestion": "q81"
+  },
+  "a116": {
+    "text": "Vous gueulez sur vos enfants pour vous défouler ",
+    "nextQuestion": "q73"
+  },
+  "a117": {
+    "text": "Vous réclamez le chomâge partiel ",
+    "nextQuestion": "q75"
+  },
+  "a118": {
+    "text": " C'est validé ! Une nouvelle vie commence pour vous !",
+    "nextQuestion": "q44"
+  },
+  "a119": {
+    "text": "Il.elle refuse ! ",
+    "nextQuestion": "q76"
+  },
+  "a120": {
+    "text": "Vous vous en foutez parce que vous êtes bien payé.e, héhé",
+    "nextQuestion": "q76"
+  },
+  "a121": {
+    "text": "Vous considérez l'idée d'aller faire de la poterie et d'élever des escargots en Auvergne",
+    "nextQuestion": "q77"
+  },
+  "a122": {
+    "text": "Vous écrivez à vos collègues pour critiquer le fait que le.a boss ne dise rien mais vous vous trompez de chan et vous envoyez ça à toute la boîte",
+    "nextQuestion": "q80"
   }
 }

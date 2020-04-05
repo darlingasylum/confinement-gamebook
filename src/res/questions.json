@@ -1,46 +1,339 @@
 {
-  "q0": {
-    "text": "Oh non il y a le corona virus !",
-    "answers": ["a1", "a2", "a3", "a4", "a5", "a6"]
-  },
   "q1": {
-    "text": "You're a Queen. On t'aime Céline !!! Mais tu es quand même confinée.",
-    "answers": ["a7"]
+    "text": "Oopsy, le corona virus est arrivé en France",
+    "answers": ["a3", "a2", "a1", "a54", "a4"]
   },
   "q2": {
-    "text": "Vous êtes confiné.e ! que faites-vous?",
-    "answers": ["a12", "a13", "a14"]
+    "text": "You're a Queen. On t'aime Céline !!! Mais tu es quand même confinée.",
+    "answers": ["a6"]
   },
   "q3": {
-    "text": "LOL ! va plutôt bosser sur la revalorisation du système de santé plutôt que de faire des tests sur internet",
-    "answers": ["a15"]
+    "text": "LOL ! Vas plutôt bosser sur la revalorisation du système de santé plutôt que de faire des jeux sur internet",
+    "answers": ["a7"]
   },
   "q4": {
-    "text": "Vous faites partie du personnel soignant, ou des personnes qui assurent le fonctionnement de la France",
-    "answers": ["a16"]
+    "text": "MERCI",
+    "answers": ["a5"]
   },
   "q5": {
-    "text": "Exceptionnellement, mets des chaussettes, tu verras, ça peut servir.",
-    "answers": ["a18"]
+    "text": "Vous êtes confiné.e, que faites-vous ?",
+    "answers": ["a8", "a9", "a10"]
   },
   "q6": {
-    "text": "what would John Maclane do?",
-    "answers": ["a7", "a8"]
+    "text": "Vous commencez votre journée",
+    "answers": ["a11", "a12", "a13"]
   },
   "q7": {
-    "text": "une pizza à quoi?",
-    "answers": ["a19"]
+    "text": "Vous leur faites faire leurs devoirs",
+    "answers": ["a14", "a15"]
   },
   "q8": {
-    "text": "vous avez des enfants?",
-    "answers": []
+    "text": "LOL. BONNE VANNE.",
+    "answers": ["a15"]
   },
   "q9": {
-    "text": "non je veux pas voir leur photo",
-    "answers": []
+    "text": "Vous devez leur faire la classe à la maison. ",
+    "answers": ["a16", "a17", "a18"]
   },
   "q10": {
-    "text": "vous échappez à la mort \"miraculeusement\"",
-    "answers": ["a15"]
+    "text": "Vos enfants vont rater leur vie. Déso... Mais vous, vous devez vous occuper de vous !",
+    "answers": ["a12", "a13"]
+  },
+  "q11": {
+    "text": "Bienvenue à l'Ile de Ré ! Vous commenceriez pas un journal de confinement ?",
+    "answers": ["a19", "a20"]
+  },
+  "q12": {
+    "text": "Franchement, merci !  ",
+    "answers": ["a21"]
+  },
+  "q13": {
+    "text": "Incroyable ! Un journal papier vous publie sur son site internet ! quels sont les retours ?",
+    "answers": ["a22", "a23", "a24"]
+  },
+  "q14": {
+    "text": "C'est honteux ! C'est du mépris de classe ! BOUUUUUUH ! ",
+    "answers": ["a25"]
+  },
+  "q15": {
+    "text": "C'est du génie, quelle sensibilité ! Sublime. Rien à voir avec ceux des autrices, ces vieilles bonnes femmes là.  ",
+    "answers": ["a26"]
+  },
+  "q16": {
+    "text": "Vous vous faites contrôler par la police. ",
+    "answers": ["a27", "a28"]
+  },
+  "q17": {
+    "text": "BIM ! 135 euros d'amende. Vous rentrez chez vous comme un.e con.ne",
+    "answers": ["a29"]
+  },
+  "q18": {
+    "text": "Vous êtes racisé.e ? ",
+    "answers": ["a30", "a31"]
+  },
+  "q19": {
+    "text": "Vous continuez votre route. Qu'allez vous faire ?",
+    "answers": ["a32", "a33", "a34"]
+  },
+  "q20": {
+    "text": "Oh non ! On vous passe à tabac pour aucune raison et on vous emmène au poste. Vous rentrez chez vous 6 heures plus tard avec 3 jours d'ITT !",
+    "answers": ["a29"]
+  },
+  "q21": {
+    "text": "Vous faites des courses, très bien très bien... Mais qu'achetez-vous ? ",
+    "answers": ["a35", "a36", "a37"]
+  },
+  "q22": {
+    "text": "Oh non ! Malheureusement, il semble que ce ne soit pas un produit essentiel ! Que dit le policier ? ",
+    "answers": ["a38", "a39"]
+  },
+  "q23": {
+    "text": "Vous arrivez chez vous",
+    "answers": ["a47", "a48"]
+  },
+  "q24": {
+    "text": "Attention, on va se moquer de vous sur les réseaux sociaux !  ",
+    "answers": ["a29"]
+  },
+  "q25": {
+    "text": "Gnagnagna vous faites du jogging gnagnagna... Avouez... C'est la première fois que vous en faites un depuis le CROSS du collège et l'UNSS ? ",
+    "answers": ["a40"]
+  },
+  "q26": {
+    "text": "Bravo ! Vous vous êtes dépensé.e ! ",
+    "answers": ["a42"]
+  },
+  "q27": {
+    "text": "Je m'en doutais. Ça se voit que votre jogging normalement, il vous sert de pyjama d'intérieur. Au max la seule activité physique que vous ayez fait dedans, c'était passer l'aspi, et encore. ",
+    "answers": ["a43"]
+  },
+  "q28": {
+    "text": "La chance vous avez un chien ! N'oubliez pas de ramasser son caca et de le mettre à la poubelle.",
+    "answers": ["a44", "a45"]
+  },
+  "q29": {
+    "text": "J'avoue, c'était pas clair. ",
+    "answers": ["a46"]
+  },
+  "q30": {
+    "text": "BRAVO ! VOUS SURVIVEZ ! ",
+    "answers": ["a21"]
+  },
+  "q31": {
+    "text": "OH NON VOUS AVEZ ATTRAPÉ LE CORONAVIRUS ! ",
+    "answers": ["a49", "a50", "a52"]
+  },
+  "q32": {
+    "text": "Vous pouvez continuer à avoir une vie normale",
+    "answers": ["a21"]
+  },
+  "q33": {
+    "text": "HEUREUSEMENT QUE C'EST POUR DE FAUX DITES DONC ! POUR PLEIN DE GENS CE N'EST PAS UN JEU... ALORS :",
+    "answers": ["a51"]
+  },
+
+  "q34": {
+    "text": "Rassure toi Roman, tu ne risques rien : le coronavirus, c'est pas Adèle Haenel ou Florence Foresti, il n'osera jamais s'opposer vraiment à toi. Mais bon, quand même :",
+    "answers": ["a53"]
+  },
+  "q35": {
+    "text": "Déjà, bravo, car vous êtes John McLane. Quelles étaient les chances pour que John McLane prenne part à cette aventure? C'est trop la classe.",
+    "answers": ["a55"]
+  },
+  "q36": {
+    "text": "Vous êtes tranquille, confiné au Nakatomi Plaza :",
+    "answers": ["a56", "a57"]
+  },
+  "q37": {
+    "text": "Hey Ducon ! Vous êtes John McLane, enfilez moi ce marcel et virez moi ces godasses !",
+    "answers": ["a57"]
+  },
+  "q38": {
+    "text": "Alors que vous vous apprêtiez à applaudir le personnel soignant, vous entendez du grabuge au pied de l'immeuble : Des agents de la maréchaussée viennent contrôler à tout va et la tension monte",
+    "answers": ["a58", "a59"]
+  },
+  "q39": {
+    "text": "Armé d'un flacon de gel hydroalcolique (avec sa petite pompe), vous allez en mission de reconaissance. Vous vous apercevez très vite que l'escouade est menée par un préfet à grande casquette... Encore un coup de Lallement !",
+    "answers": ["a60", "a61"]
+  },
+  "q40": {
+    "text": "Des tirs de LBD font voler toutes les vitres alentours, vous vous cachez derrière un bureau alors qu'ils vous encerclent",
+    "answers": ["a63", "a62"]
+  },
+  "q41": {
+    "text": "Je le savais, vous n'êtes pas le vrai John McLane !  si vous étiez vraiment John McLane vous savez que le marcel / pieds nus est in-con-tour-nable. ",
+    "answers": ["a66"]
+  },
+  "q42": {
+    "text": "Il y a du verre brisé partout et vous êtes pieds nus. Gros malin, vous saignez de partout, vous vous faites attraper et vous payez 135 balles. Ca vous apprendra.",
+    "answers": ["a64", "a65"]
+  },
+  "q43": {
+    "text": "Parfois, pour être un héros, il faut mettre son pyjama en piloupilou et se matter tous les films d'action avec Bruce Willis.",
+    "answers": ["a66"]
+  },
+  "q44": {
+    "text": "Choisissez votre prochaine activité :",
+    "answers": [
+      "a67",
+      "a81",
+      "a86",
+      "a89",
+      "a93",
+      "a94",
+      "a103",
+      "a104",
+      "a107",
+      "a109",
+      "a106"
+    ]
+  },
+  "q45": {
+    "text": "Quel film choisissez-vous ?",
+    "answers": ["a68", "a69", "a70"]
+  },
+  "q46": {
+    "text": "Très bon choix ! Vous regardez le film. ",
+    "answers": ["a71", "a72"]
+  },
+  "q47": {
+    "text": "Vous pleurez roulé.e en boule dans votre canapé. ",
+    "answers": ["a73"]
+  },
+  "q48": {
+    "text": "Vous mentez, ce film fait vraiment flipper. ",
+    "answers": ["a74"]
+  },
+  "q49": {
+    "text": "Très bon choix ! Vous regardez le film. ",
+    "answers": ["a75", "a71"]
+  },
+  "q50": {
+    "text": "Très bon choix ! Vous regardez le film. ",
+    "answers": ["a76", "a77"]
+  },
+  "q51": {
+    "text": "Vous n'avez pas de coeur",
+    "answers": ["a74"]
+  },
+  "q52": {
+    "text": "Vous êtes chelou.e",
+    "answers": ["a74"]
+  },
+  "q53": {
+    "text": "On s'en fout !",
+    "answers": ["a74"]
+  },
+  "q54": {
+    "text": "La France vous dit merci, vous êtes un.e héros.héroïne. ",
+    "answers": ["a80"]
+  },
+  "q55": {
+    "text": "Bravo pour votre motivation ! Comment cela se passe t'il ? ",
+    "answers": ["a82", "a83"]
+  },
+  "q56": {
+    "text": "ça fait trop mal ! ",
+    "answers": ["a84", "a85"]
+  },
+  "q57": {
+    "text": "Bon, on ne va pas se mentir, vous faites chier tous vos voisins à jouer à Bricolo-Bricolette, mais maintenant que c'est fait, comment ça s'est passé, alors ?  ",
+    "answers": ["a87", "a88"]
+  },
+  "q58": {
+    "text": "Bravo, vous êtes le.la Valérie Damidot du confifi.",
+    "answers": ["a80"]
+  },
+  "q59": {
+    "text": "J'ai envie de dire : \"Bien fait !\", mais je compatis, ça fait mal j'avoue. je me rappelle, une fois, ça m'est arrivé et j'ai vraiment... BREF. vous faites quoi ? ",
+    "answers": ["a84", "a85"]
+  },
+  "q60": {
+    "text": "Oh non ! Vous ne savez pas en faire et vous n'avez pas de tuto ! ",
+    "answers": ["a90", "a91", "a92"]
+  },
+  "q61": {
+    "text": "J'espère que vous avez une bonne raison sinon je vais me facher toute rouge ! En attendant point essentiel : ",
+    "answers": ["a27", "a28"]
+  },
+  "q62": {
+    "text": "Bon délire ! Quelle recette tentez-vous ? ",
+    "answers": ["a95", "a96", "a97"]
+  },
+  "q63": {
+    "text": "Cool ! Vous en faites quoi ? ",
+    "answers": ["a98", "a99"]
+  },
+  "q64": {
+    "text": "C'est bon ?",
+    "answers": ["a100", "a101"]
+  },
+  "q65": {
+    "text": "Vous postez la photo sur Instagram",
+    "answers": ["a80"]
+  },
+  "q66": {
+    "text": "GROS.SE MALIN.E VA ! C'EST UNE GROSSE BÊTISE ÇA ! ",
+    "answers": ["a102"]
+  },
+  "q67": {
+    "text": "vous trouvez que depuis le confinement les épisodes font 8 minutes au total, mais ",
+    "answers": ["a80"]
+  },
+  "q68": {
+    "text": "Vous êtes vraiment une belle personne. ",
+    "answers": ["a105", "a80"]
+  },
+  "q69": {
+    "text": "ENCORE ???? Lavez vous les mains et : ",
+    "answers": ["a80"]
+  },
+  "q70": {
+    "text": "Profitez-en pour regarder ça, alors",
+    "answers": ["a108", "a80"]
+  },
+  "q71": {
+    "text": "ALORS ??? C'EST BIEN ??? ",
+    "answers": ["a110", "a111"]
+  },
+  "q73": {
+    "text": "Ah !! Ça va mieux ! Vous continuez votre journée de travail :",
+    "answers": ["a112", "a113", "a114", "a115"]
+  },
+  "q74": {
+    "text": "Oh lala ça vous énerve ! Que faites-vous ?",
+    "answers": ["a116", "a117"]
+  },
+  "q75": {
+    "text": "Votre boss vous répond ! ",
+    "answers": ["a118", "a119"]
+  },
+  "q76": {
+    "text": "Vous continuez à bosser de chez vous",
+    "answers": ["a112", "a113", "a114", "a115"]
+  },
+  "q77": {
+    "text": "Vous démissionnez ! Hop ! ",
+    "answers": ["a118"]
+  },
+  "q78": {
+    "text": "OH MINCE ! VOUS N'AVEZ PAS UN MÉTIER QUI FAIT TOURNER LA FRANCE ! ",
+    "answers": ["a120", "a121"]
+  },
+  "q79": {
+    "text": "Ça vous énerve... mais ça vous énerve !!!",
+    "answers": ["a116", "a122"]
+  },
+  "q80": {
+    "text": "Vous êtes viré.e",
+    "answers": ["a118"]
+  },
+  "q81": {
+    "text": "C'est la grosse honte.",
+    "answers": ["a121", "a120"]
+  },
+  "q72": {
+    "text": "Vous mettez une chemise ou un chemisier en haut, et gardez votre bas de pyjama en bas, parce que le bas, on s'en fout, c'est pas visible à la webcam ! Ensuite, vous commencez votre journée de travail :",
+    "answers": ["a112", "a113", "a114", "a115"]
   }
 }

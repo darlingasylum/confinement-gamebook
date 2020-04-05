@@ -3,13 +3,12 @@ import './Button.css';
 
 function Button({ answer, setNextQuestion }) {
   if (!answer) return null;
-  console.log(answer);
 
   return (
     <div className='questionLink'>
-      {answer.extLink ? (
+      {answer.externalLink ? (
         <a
-          href={'http://' + answer.extLink}
+          href={'http://' + answer.externalLink}
           target='_blank'
           rel='noopener noreferrer'
         >
