@@ -7,23 +7,28 @@ import './ClassicLayout.css';
 function ClassicLayout({ children }) {
   return (
     <div className='app'>
-      <h2 className='title'> Le confinement dont vous êtes le héros</h2>
+      <div className='content-wrap'>
+        <h2 className='title'> Le confinement dont vous êtes le héros</h2>
 
-      {children}
+        {children}
 
-      <Sound></Sound>
-      <div className='footer'>
-        <Link to='/' className='questionLink'>
-          Revenir à l'accueil
-        </Link>
-
-        <a
-          href='https://www.instagram.com/marinebaousson/'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          lien vers l'insta de Marine Baousson
-        </a>
+        <Sound></Sound>
+        <div className='navigate'>
+          <button>Revenir à la question précédente</button>
+          <Link to='/' className='questionLink'>
+            Revenir à l'accueil
+          </Link>
+        </div>
+        <div className='footer'>
+          <a
+            href='https://www.instagram.com/marinebaousson/'
+            target='_blank'
+            rel='noopener noreferrer'
+            className='instaLink'
+          >
+            Créé par Marine Baousson
+          </a>
+        </div>
       </div>
     </div>
   );
