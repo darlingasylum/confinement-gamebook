@@ -11,6 +11,7 @@ function Question({ question }) {
   // {text: "Oh non il y a le corona virus !", next: ["a1", "a2", "a3", "a4", "a5", "a6"]}
   // we put this question in state
   const [currentQuestion, setCurrentQuestion] = useState(question);
+  const [previousQuestion, setPreviousQuestion] = useState(null);
 
   if (!currentQuestion) {
     return null;
@@ -25,23 +26,42 @@ function Question({ question }) {
 
   // on click on an answer we set a new current question with its answers
   const setNextQuestion = (id) => {
+    setPreviousQuestion(currentQuestion);
     setCurrentQuestion(questions[id]);
   };
 
+  const goToPreviousQuestion = () => {
+    setCurrentQuestion(previousQuestion);
+  };
+
   return (
-    <div className='section'>
-      <h1 className='question'>{currentQuestion.text}</h1>
-      <div className='answers'>
-        {answerList.map((answer, i) => {
-          return (
-            <Button
-              answer={answer}
-              setNextQuestion={setNextQuestion}
-              key={i}
-            ></Button>
-          );
-        })}
+    <div className='sectionWrapper'>
+      <div className='section'>
+        <h1 className='question'>{currentQuestion.text}</h1>
+        <div className='answers'>
+          {answerList.map((answer, i) => {
+            return (
+              <Button
+                answer={answer}
+                setNextQuestion={setNextQuestion}
+                key={i}
+              ></Button>
+            );
+          })}
+        </div>
       </div>
+      {currentQuestion.text !==
+        'Oopsy, le corona virus est arrivé en France' && (
+        <>
+          <button onClick={goToPreviousQuestion}>
+            Je n'assume pas mon choix : revenir à la question précédente <br />
+          </button>
+          <p className='helperTextBonus'>
+            (attention on ne peut l'utiliser que pour remonter d'une question,
+            aprèa ça ne fonctionne plus)
+          </p>
+        </>
+      )}
     </div>
   );
 }

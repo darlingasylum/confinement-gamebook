@@ -14,7 +14,6 @@ function ClassicLayout({ children }) {
 
         <Sound></Sound>
         <div className='navigate'>
-          <button>Revenir à la question précédente</button>
           <Link to='/' className='questionLink'>
             Revenir à l'accueil
           </Link>
