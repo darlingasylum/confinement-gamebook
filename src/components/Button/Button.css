@@ -4,7 +4,7 @@
 
 .button {
   padding: 0.6em 1.2em;
-  margin: 0.5em;
+  margin: 0.5em 0;
   border: 0.1em solid #0a0124;
   border-radius: 0.12em;
   box-sizing: border-box;
