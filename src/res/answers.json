@@ -8,7 +8,7 @@
     "nextQuestion": "q3"
   },
   "a3": {
-    "text": "Vous faites partie du personnel soignant, ou des personnes qui assurent le fonctionnement de la France",
+    "text": "Vous faites partie des personnes qui assurent le fonctionnement de la France",
     "nextQuestion": "q4"
   },
   "a4": {
@@ -16,8 +16,8 @@
     "nextQuestion": "q5"
   },
   "a5": {
-    "text": "Vous pouvez jouer quand même pour rigoler",
-    "nextQuestion": "q5"
+    "text": "Vous faites partie du personnel soignant",
+    "nextQuestion": "q82"
   },
   "a6": {
     "text": "Rentrez chez vous",
@@ -420,7 +420,7 @@
     "externalLink": "www.acceptess-t.com/aide-sociale?fbclid=IwAR0Ie7hNzlBP0POUFIF-ZB6-nVmDLUPwh8VfYsivFy0dXPeQCbAACvTUUpA"
   },
   "a106": {
-    "text": "Vous vous branlez",
+    "text": "Vous vous masturbez",
     "nextQuestion": "q69"
   },
   "a107": {
@@ -490,5 +490,245 @@
   "a123": {
     "text": "La limousine vous escorte jusqu'à chez vous.",
     "nextQuestion": "q23"
+  },
+  "a124": {
+    "text": "Vous kiffez tellement ! Vous vous êtes bien défoulé ! ",
+    "nextQuestion": "q44"
+  },
+  "a125": {
+    "text": "Vous faites cinq gardes de 20h d'affilée",
+    "nextQuestion": "q83"
+  },
+  "a126": {
+    "text": "Vous faites un burn out",
+    "nextQuestion": "q84"
+  },
+  "a127": {
+    "text": "Vous choppez le covid19",
+    "nextQuestion": "q84"
+  },
+  "a128": {
+    "text": "Vous rentrez à la maison",
+    "nextQuestion": "q85"
+  },
+  "a129": {
+    "text": "Vous continuez à travailler",
+    "nextQuestion": "q82"
+  },
+  "a130": {
+    "text": "Ils vous demandent de déménager, parce qu'ouh lou lou ils ont peur, ces gros lâches ",
+    "nextQuestion": "q86"
+  },
+  "a131": {
+    "text": "Ils vous ont fait des petits plats et les courses ! ",
+    "nextQuestion": "q87"
+  },
+  "a132": {
+    "text": "Vous êtes infirmière scolaire depuis 1997 et on vous forme en urgence en réa",
+    "nextQuestion": "q88"
+  },
+  "a133": {
+    "text": "Vous n'avez pas le choix, vous foncez tête baissée dans le boulot.",
+    "nextQuestion": "q83"
+  },
+  "a134": {
+    "text": "Vous paniquez à l'idée de devoir gérer les machines alors que vous ne savez déjà pas comment mettre un téléphone en mode vibreur",
+    "nextQuestion": "q89"
+  },
+  "a135": {
+    "text": "Vous cherchez désespérément des masques, du gel hydroalcoolique, et des surblouses",
+    "nextQuestion": "q90"
+  },
+  "a136": {
+    "text": "Vous vous fabriquez vous même un masque de fortune avec une vieille culotte ou un vieux slip",
+    "nextQuestion": "q91"
+  },
+  "a137": {
+    "text": "Vous partagez un masque avec six collègues, et vous le lavez à tour de rôle ",
+    "nextQuestion": "q91"
+  },
+  "a138": {
+    "text": "Vous recyclez des sacs poubelles et des gants de cuisine MAPA ",
+    "nextQuestion": "q91"
+  },
+  "a139": {
+    "text": "Les gens vous applaudissent à 20h",
+    "nextQuestion": "q92"
+  },
+  "a140": {
+    "text": "Ça vous fait plaisir ",
+    "nextQuestion": "q93"
+  },
+  "a141": {
+    "text": "Ça vous énerve ",
+    "nextQuestion": "q93"
+  },
+  "a142": {
+    "text": "Vous n'êtes pas encore dans une zone de crise",
+    "nextQuestion": "q94"
+  },
+  "a143": {
+    "text": "Vous travaillez dans un magasin",
+    "nextQuestion": "q95"
+  },
+  "a144": {
+    "text": "Les clients ne respectent pas les distances de sécurité  et vous postillonnent dessus ",
+    "nextQuestion": "q96"
+  },
+  "a145": {
+    "text": "Vous n'avez plus de masques ni de gants",
+    "nextQuestion": "q100"
+  },
+  "a146": {
+    "text": "Vous rentrez chez vous après votre journée éreintante ",
+    "nextQuestion": "q44"
+  },
+  "a147": {
+    "text": "Vous gardez le sourire et restez pro",
+    "nextQuestion": "q97"
+  },
+  "a148": {
+    "text": "Vous vous vengez",
+    "nextQuestion": "q98"
+  },
+  "a149": {
+    "text": "Vous ne mettez pas la farine en rayon, ni le PQ. ",
+    "nextQuestion": "q99"
+  },
+  "a150": {
+    "text": "Vous continuez à travailler",
+    "nextQuestion": "q95"
+  },
+  "a151": {
+    "text": "Vous cherchez désespérément des masques, du gel hydroalcoolique, et des surblouses",
+    "nextQuestion": "q100"
+  },
+  "a152": {
+    "text": "Vous vous fabriquez vous même un masque de fortune avec une vieille culotte ou un vieux slip",
+    "nextQuestion": "q101"
+  },
+  "a153": {
+    "text": "Vous partagez un masque avec six collègues, et vous le lavez à tour de rôle ",
+    "nextQuestion": "q101"
+  },
+  "a154": {
+    "text": "Vous recyclez des sacs poubelles et des gants de cuisine MAPA ",
+    "nextQuestion": "q101"
+  },
+  "a155": {
+    "text": "Vous choppez le covid19 ! Rentrez chez vous !",
+    "nextQuestion": "q44"
+  },
+  "a156": {
+    "text": "Vous êtes livreur.se",
+    "nextQuestion": "q102"
+  },
+  "a157": {
+    "text": "Vous livrez une pizza à une coloc d'étudiants",
+    "nextQuestion": "q103"
+  },
+  "a158": {
+    "text": "Vous livrez des Sushis à un couple de trentenaires ",
+    "nextQuestion": "q103"
+  },
+  "a159": {
+    "text": "Vous livrez un bimbimbap à un célibataire dont le frigo est plein",
+    "nextQuestion": "q103"
+  },
+  "a160": {
+    "text": "Vous vous remettez du gel hydroalcoolique pour la 167ème fois de la journée, et vous continuez à bossez...",
+    "nextQuestion": "q102"
+  },
+  "a161": {
+    "text": "Vous êtes chauffeur ou chauffeuse",
+    "nextQuestion": "q104"
+  },
+  "a162": {
+    "text": "Vous vous remettez du gel hydroalcoolique pour la 167ème fois de la journée, et vous continuez à bossez...",
+    "nextQuestion": "q104"
+  },
+  "a163": {
+    "text": "Vous êtes éboueur.se ",
+    "nextQuestion": "q105"
+  },
+  "a164": {
+    "text": "Vous vous remettez du gel hydroalcoolique pour la 167ème fois de la journée, et vous continuez à bossez...",
+    "nextQuestion": "q105"
+  },
+  "a165": {
+    "text": "Vous travaillez dans un bureau",
+    "nextQuestion": "q106"
+  },
+  "a166": {
+    "text": "Puisque personne ne vous voit, vous faites des concours de déguisements avec vos collègues",
+    "nextQuestion": "q107"
+  },
+  "a167": {
+    "text": "Vous tenez un journal pour les collègues absents ",
+    "nextQuestion": "q107"
+  },
+  "a168": {
+    "text": "Vous travaillez plus que jamais ",
+    "nextQuestion": "q108"
+  },
+  "a169": {
+    "text": "Le téléphone sonne en permanence",
+    "nextQuestion": "q109"
+  },
+  "a170": {
+    "text": "Vous faites le boulot de plusieurs personnes à la fois",
+    "nextQuestion": "q109"
+  },
+  "a171": {
+    "text": "Pour dépanner, on vous a changé de poste en urgence",
+    "nextQuestion": "q109"
+  },
+  "a172": {
+    "text": "Vous êtes agriculteur.trice",
+    "nextQuestion": "q110"
+  },
+  "a173": {
+    "text": "Comme d'habitude, vous travaillez plus que jamais, surtout qu'il fait super beau !",
+    "nextQuestion": "q110"
+  },
+  "a174": {
+    "text": "Vous avez un travail essentiel mais je ne vous ai pas noté.e ici",
+    "nextQuestion": "q111"
+  },
+  "a175": {
+    "text": "Vous avez rendez-vous avec vos ami.e.s pour un Skypéro ",
+    "nextQuestion": "q112"
+  },
+  "a176": {
+    "text": "Vous avez perdu votre mot de passe Skype",
+    "nextQuestion": "q113"
+  },
+  "a177": {
+    "text": "Vous vous connectez dans soucis ! Commencez la conversation ! ",
+    "nextQuestion": "q115"
+  },
+  "a178": {
+    "text": "Vous essayez de réactiver votre mot de passe environ 8 fois, en vain. ",
+    "nextQuestion": "q114"
+  },
+  "a179": {
+    "text": "Vous le retrouvez ! Commencez la conversation !",
+    "nextQuestion": "q115"
+  },
+  "a180": {
+    "text": "Tout le monde parle en même temps ! ",
+    "nextQuestion": "q114"
+  },
+  "a181": {
+    "text": "Vous ouvrez une bouteille et vous sortez des cacahuètes. ",
+    "nextQuestion": "q116"
+  },
+  "a182": {
+    "text": "Vous appréciez le moment et vous rappelez du bon temps, celui d'avant, quand on pouvait sortir au cinéma, au restaurant, aller voir des spectacles, fêter des anniversaires, etc etc etc...",
+    "nextQuestion": "q47"
+  },
+  "a183": {
+    "text": "Vous ouvrez une deuxième bouteille, après tout, c'est convivial comme moment ! ",
+    "nextQuestion": "q117"
   }
 }

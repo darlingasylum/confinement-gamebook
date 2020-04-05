@@ -12,8 +12,8 @@
     "answers": ["a7"]
   },
   "q4": {
-    "text": "MERCI",
-    "answers": ["a5"]
+    "text": "Déjà : M E R C I ! Mais qui êtes-vous précisément ? ",
+    "answers": ["a5", "a143", "a156", "a161", "a163", "a165", "a174"]
   },
   "q5": {
     "text": "Vous êtes confiné.e, que faites-vous ?",
@@ -133,7 +133,7 @@
   },
 
   "q34": {
-    "text": "Rassure toi Roman, tu ne risques rien : le coronavirus, c'est pas Adèle Haenel ou Florence Foresti, il n'osera jamais s'opposer vraiment à toi. Mais bon, quand même :",
+    "text": "Rassure toi, tu ne risques rien : le coronavirus, c'est pas Adèle Haenel ou Florence Foresti, il n'osera jamais t'attaquer. Mais bon : vas quand même ici :",
     "answers": ["a53"]
   },
   "q35": {
@@ -185,7 +185,8 @@
       "a104",
       "a107",
       "a109",
-      "a106"
+      "a106",
+      "a175"
     ]
   },
   "q45": {
@@ -230,7 +231,7 @@
   },
   "q55": {
     "text": "Bravo pour votre motivation ! Comment cela se passe t'il ? ",
-    "answers": ["a82", "a83"]
+    "answers": ["a82", "a83", "a124"]
   },
   "q56": {
     "text": "Ça fait trop mal ! ",
@@ -277,7 +278,7 @@
     "answers": ["a102"]
   },
   "q67": {
-    "text": "vous trouvez que depuis le confinement les épisodes font 8 minutes au total, mais ",
+    "text": "Vous trouvez que depuis le confinement les épisodes font 8 minutes au total, mais ",
     "answers": ["a80"]
   },
   "q68": {
@@ -296,12 +297,16 @@
     "text": "ALORS ??? C'EST BIEN ??? ",
     "answers": ["a110", "a111"]
   },
+  "q72": {
+    "text": "Vous mettez une chemise ou un chemisier en haut, et gardez votre bas de pyjama en bas, parce que le bas, on s'en fout, c'est pas visible à la webcam ! Ensuite, vous commencez votre journée de travail :",
+    "answers": ["a112", "a113", "a114", "a115"]
+  },
   "q73": {
     "text": "Ah !! Ça va mieux ! Vous continuez votre journée de travail :",
     "answers": ["a112", "a113", "a114", "a115"]
   },
   "q74": {
-    "text": "Oh lala ça vous énerve ! Que faites-vous ?",
+    "text": "Ohlala ça vous énerve ! Que faites-vous ?",
     "answers": ["a116", "a117"]
   },
   "q75": {
@@ -332,8 +337,148 @@
     "text": "C'est la grosse honte.",
     "answers": ["a121", "a120"]
   },
-  "q72": {
-    "text": "Vous mettez une chemise ou un chemisier en haut, et gardez votre bas de pyjama en bas, parce que le bas, on s'en fout, c'est pas visible à la webcam ! Ensuite, vous commencez votre journée de travail :",
-    "answers": ["a112", "a113", "a114", "a115"]
+  "q82": {
+    "text": "Que se passe t'il dans votre journée ?",
+    "answers": ["a125", "a132", "a135", "a139", "a142"]
+  },
+  "q83": {
+    "text": "Ohlala vous devez être épuisé.e ! Que faites-vous ? ",
+    "answers": ["a126", "a127", "a128"]
+  },
+  "q84": {
+    "text": "Vous ne vous mettez pas en arrêt ",
+    "answers": ["a129"]
+  },
+  "q85": {
+    "text": "Vous trouvez un mot de vos voisins collé sur votre porte :",
+    "answers": ["a130", "a131"]
+  },
+  "q86": {
+    "text": "Qu'ils aillent se faire cuire le cul !",
+    "answers": ["a66"]
+  },
+  "q87": {
+    "text": "Vous pensez qu'ils sont trop mignons, vous mettez tout au frigo et hop !",
+    "answers": ["a66"]
+  },
+  "q88": {
+    "text": "Que faites-vous ?",
+    "answers": ["a133", "a134"]
+  },
+  "q89": {
+    "text": "Vous appuyez sur tous les boutons parce que vous ne savez pas comment ça marche. ",
+    "answers": ["a121"]
+  },
+  "q90": {
+    "text": "Ça vous énerve parce que vous manquez de matériel pour travailler mais vous croisez sans cesse des gens avec des masques FFP2 alors que c'est 7 euros l'unité, bordel ! D'ailleurs qui sont ces gens ? Quels sont leurs réseaux ?  Vous cherchez des solutions alternatives : ",
+    "answers": ["a136", "a137", "a138"]
+  },
+  "q91": {
+    "text": "Et alors ?? Ça marche bien ? ",
+    "answers": ["a127"]
+  },
+  "q92": {
+    "text": "Vous vous dites alors que",
+    "answers": ["a140", "a141"]
+  },
+  "q93": {
+    "text": "Oui, et vous espérez qu'il aura autant de soutien une fois la crise passée quand il faudra vous soutenir face au gouvernement et repenser le système de santé",
+    "answers": ["a129"]
+  },
+  "q94": {
+    "text": "Vous vous préparez mais pfiouuuuu vous vous faites chier comme un rat mort vu que tous les lits sont vides ",
+    "answers": ["a129"]
+  },
+  "q95": {
+    "text": " Que se passe t'il dans votre journée ?",
+    "answers": ["a144", "a145", "a146"]
+  },
+  "q96": {
+    "text": "Ah bon ?? et que faites-vous ?",
+    "answers": ["a155", "a147", "a148"]
+  },
+  "q97": {
+    "text": "C'est chic de votre part ! rentrez chez vous ! ",
+    "answers": ["a66"]
+  },
+  "q98": {
+    "text": "Ah bon mais que faites-vous ?",
+    "answers": ["a149"]
+  },
+  "q99": {
+    "text": "Ah mais c'estt pour çaaaa qu'on n'en trouve plus nulle part ? Héhé bien joué !! Franchement, on mérite ! Vous continuez à travailler.",
+    "answers": ["a150"]
+  },
+  "q100": {
+    "text": "Que faites-vous ? ",
+    "answers": ["a152", "a153", "a154"]
+  },
+  "q101": {
+    "text": "Et alors ?? Ça marche bien ? ",
+    "answers": ["a155"]
+  },
+  "q102": {
+    "text": "Que se passe t'il dans votre journée ?",
+    "answers": ["a157", "a158", "a159"]
+  },
+  "q103": {
+    "text": "Vos conditions de travail étaient déjà pas dingue mais vous n'avez pas le choix...",
+    "answers": ["a160"]
+  },
+  "q104": {
+    "text": "Vos conditions de travail étaient déjà pas dingue mais vous n'avez pas le choix...",
+    "answers": ["a163"]
+  },
+  "q105": {
+    "text": "Les gens ne ferment pas bien leurs sacs poubelle et vous êtes très exposé.e.s",
+    "answers": ["a164"]
+  },
+  "q106": {
+    "text": "Que se passe t'il dans votre journée ?",
+    "answers": ["a166", "a167", "a168"]
+  },
+  "q107": {
+    "text": "Vous continuez à bosser. ",
+    "answers": ["a168"]
+  },
+  "q108": {
+    "text": "Dites m'en plus: ",
+    "answers": ["a169", "a170", "a171"]
+  },
+  "q109": {
+    "text": "oh la la vous devez être épuisé.e ! Rentrez chez vous ! ",
+    "answers": ["a66"]
+  },
+  "q110": {
+    "text": "Que se passe t'il dans votre journée ?",
+    "answers": ["a173"]
+  },
+  "q111": {
+    "text": "C'est parce qu'aujourd'hui, la chance, vous êtes en repos !",
+    "answers": ["a66"]
+  },
+  "q112": {
+    "text": "Trop bien ! ",
+    "answers": ["a176", "a177"]
+  },
+  "q113": {
+    "text": "Que faites-vous ?",
+    "answers": ["a178", "a179"]
+  },
+  "q114": {
+    "text": "Ça vous énerve ! Vous décidez de faire autre chose, tant pis pour vos amis ! ",
+    "answers": ["a80"]
+  },
+  "q115": {
+    "text": "Vous discutez avec vos ami.e.s",
+    "answers": ["a180", "a181", "a182"]
+  },
+  "q116": {
+    "text": "L'ambiance est trop sympa ! ça vous fait plaisir de parler à vos potes ! ",
+    "answers": ["a183"]
+  },
+  "q117": {
+    "text": "Vous êtes totalement bourré.e ! Raccrochez et allez dormir un peu ! ",
+    "answers": ["a79"]
   }
 }
