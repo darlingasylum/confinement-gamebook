@@ -13,7 +13,7 @@
   },
   "q4": {
     "text": "Déjà : M E R C I ! Mais qui êtes-vous précisément ? ",
-    "answers": ["a5", "a143", "a156", "a161", "a163", "a165", "a174"]
+    "answers": ["a5", "a143", "a156", "a161", "a163", "a165", "a174", "a172"]
   },
   "q5": {
     "text": "Vous êtes confiné.e, que faites-vous ?",
@@ -138,7 +138,7 @@
   },
   "q35": {
     "text": "Déjà, bravo, car vous êtes John McLane. Quelles étaient les chances pour que John McLane prenne part à cette aventure? C'est trop la classe. Vous venez d'arriver en avion, juste avant les annonces de confinement. Une limousine trop classe vous attendait.",
-    "answers": ["a55"]
+    "answers": ["a55", "a123"]
   },
   "q36": {
     "text": "Vous êtes tranquille, confiné au Nakatomi Plaza :",
@@ -186,7 +186,9 @@
       "a107",
       "a109",
       "a106",
-      "a175"
+      "a175",
+
+      "a194"
     ]
   },
   "q45": {
@@ -419,7 +421,7 @@
   },
   "q102": {
     "text": "Que se passe t'il dans votre journée ?",
-    "answers": ["a157", "a158", "a159"]
+    "answers": ["a157", "a158", "a159", "a185"]
   },
   "q103": {
     "text": "Vos conditions de travail étaient déjà pas dingue mais vous n'avez pas le choix...",
@@ -427,11 +429,11 @@
   },
   "q104": {
     "text": "Vos conditions de travail étaient déjà pas dingue mais vous n'avez pas le choix...",
-    "answers": ["a163"]
+    "answers": ["a162", "a184"]
   },
   "q105": {
     "text": "Les gens ne ferment pas bien leurs sacs poubelle et vous êtes très exposé.e.s",
-    "answers": ["a164"]
+    "answers": ["a164", "a184"]
   },
   "q106": {
     "text": "Que se passe t'il dans votre journée ?",
@@ -480,5 +482,13 @@
   "q117": {
     "text": "Vous êtes totalement bourré.e ! Raccrochez et allez dormir un peu ! ",
     "answers": ["a79"]
+  },
+  "q117": {
+    "text": "Vous êtes totalement bourré.e ! Raccrochez et allez dormir un peu ! ",
+    "answers": ["a79"]
+  },
+  "q118": {
+    "text": "Qu'allez-vous faire maintenant ? ",
+    "answers": ["a186", "a187", "a188", "a189", "a190", "a191", "a192", "a193"]
   }
 }

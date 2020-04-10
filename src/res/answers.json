@@ -429,7 +429,7 @@
   },
   "a108": {
     "text": "CLIQUEZ",
-    "externalLink": "//www.facebook.com/teva.fr/videos/492900974670983/"
+    "externalLink": "www.facebook.com/teva.fr/videos/492900974670983/"
   },
   "a109": {
     "text": "Vous jouez à Animal Crossing",
@@ -636,7 +636,7 @@
     "nextQuestion": "q103"
   },
   "a160": {
-    "text": "Vous vous remettez du gel hydroalcoolique pour la 167ème fois de la journée, et vous continuez à bossez...",
+    "text": "Vous vous remettez du gel hydroalcoolique pour la 167ème fois de la journée, et vous continuez à bosser...",
     "nextQuestion": "q102"
   },
   "a161": {
@@ -644,16 +644,16 @@
     "nextQuestion": "q104"
   },
   "a162": {
-    "text": "Vous vous remettez du gel hydroalcoolique pour la 167ème fois de la journée, et vous continuez à bossez...",
-    "nextQuestion": "q104"
+    "text": "Vous vous remettez du gel hydroalcoolique pour la 167ème fois de la journée, et vous continuez à bosser...",
+    "nextQuestion": "q109"
   },
   "a163": {
     "text": "Vous êtes éboueur.se ",
     "nextQuestion": "q105"
   },
   "a164": {
-    "text": "Vous vous remettez du gel hydroalcoolique pour la 167ème fois de la journée, et vous continuez à bossez...",
-    "nextQuestion": "q105"
+    "text": "Vous vous remettez du gel hydroalcoolique pour la 167ème fois de la journée, et vous continuez à bosser...",
+    "nextQuestion": "q109"
   },
   "a165": {
     "text": "Vous travaillez dans un bureau",
@@ -689,7 +689,7 @@
   },
   "a173": {
     "text": "Comme d'habitude, vous travaillez plus que jamais, surtout qu'il fait super beau !",
-    "nextQuestion": "q110"
+    "nextQuestion": "q109"
   },
   "a174": {
     "text": "Vous avez un travail essentiel mais je ne vous ai pas noté.e ici",
@@ -730,5 +730,49 @@
   "a183": {
     "text": "Vous ouvrez une deuxième bouteille, après tout, c'est convivial comme moment ! ",
     "nextQuestion": "q117"
+  },
+  "a184": {
+    "text": "Vous en avez marre de tous ces gens irrespectueux, rentrez chez vous ! ",
+    "nextQuestion": "q44"
+  },
+  "a185": {
+    "text": "Vous livrez tout et n'importe quoi puisque vous travaillez pour Amazon. ",
+    "nextQuestion": "q109"
+  },
+  "a186": {
+    "text": "Kiffer ",
+    "externalLink": "www.se-balader.fr "
+  },
+  "a187": {
+    "text": "Kiffer ",
+    "externalLink": "/www.billetreduc.com/search.htm?se=marine+baousson"
+  },
+  "a188": {
+    "text": "Kiffer ",
+    "externalLink": "www.librairiesindependantes.com"
+  },
+  "a189": {
+    "text": "Kiffer ",
+    "externalLink": "www.lefooding.com"
+  },
+  "a190": {
+    "text": "Kiffer ",
+    "externalLink": "www.touslesfestivals.com"
+  },
+  "a191": {
+    "text": "Kiffer ",
+    "externalLink": "open.spotify.com/user/11186375997/playlist/0luXRWIgwqhwCpfpdfZBgw?si=8OU480jpTwCNiZvEUHu9fg"
+  },
+  "a192": {
+    "text": "Kiffer ",
+    "externalLink": "www.instagram.com/julietteponey_illustrations/"
+  },
+  "a193": {
+    "text": "Kiffer ",
+    "externalLink": "www.lemonde.fr/culture"
+  },
+  "a194": {
+    "text": "C'EST LA FIN DU CONFINEMENT ! Bravo, vous avez survécu à l'isolement, au télétravail, aux Facetime avec vos parents qui ne comprennent pas comment fonctionnent les appels en visio, à vos enfants, aux vannes grossophobes et aux 8000 lives Instagram d'humoristes, d'influenceurs, de gens connus, ou de coachs sportifs dans leurs salons !!!!  Qu'allez vous faire maintenant ? ",
+    "nextQuestion": "q118"
   }
 }
