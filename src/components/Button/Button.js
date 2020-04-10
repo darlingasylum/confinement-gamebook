@@ -5,7 +5,7 @@ function Button({ answer, setNextQuestion }) {
   if (!answer) return null;
 
   return (
-    <div className='questionLink'>
+    <div className={`questionLink ${answer.withSpace ? 'withSpace' : ''}`}>
       {answer.externalLink ? (
         <a
           href={'http://' + answer.externalLink}
