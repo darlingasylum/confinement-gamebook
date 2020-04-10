@@ -14,6 +14,7 @@
 .pageLogo {
   margin: 1rem;
   max-height: 15vh;
+  max-width: 50%;
 }
 
 .navigate {
@@ -57,4 +58,13 @@
 .instaLink {
   color: #455adb;
   font-size: 0.6rem;
+}
+
+@media screen and (max-width: 640px) {
+  .content-wrap {
+    width: 100%;
+  }
+  .pageLogo {
+    margin: 1rem 1rem 3rem 1rem;
+  }
 }

@@ -11,7 +11,6 @@
 .creditsContent {
   text-align: center;
   margin-bottom: 2rem;
-  width: 100%;
 }
 
 .creditsContent a {
@@ -27,4 +26,11 @@
 .creditsLogo {
   margin: 3rem;
   max-height: 28vh;
+}
+
+@media screen and (max-width: 640px) {
+  .creditsLogo {
+    margin: 1rem;
+    max-width: 80%;
+  }
 }

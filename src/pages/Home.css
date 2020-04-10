@@ -22,4 +22,5 @@
 .homeLogo {
   margin: 3rem 0 3rem 0;
   max-height: 60vh;
+  max-width: 90%;
 }
