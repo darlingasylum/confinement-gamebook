@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 import ClassicLink from './../../components/ClassicLink/ClassicLink';
 import fullLogo from './../../assets/full_logo.png';
@@ -9,11 +8,15 @@ import './Credits.css';
 function Credits() {
   return (
     <div className='creditsWrapper'>
-      <img className='creditsLogo' src={fullLogo}></img>
+      <img className='creditsLogo' src={fullLogo} alt='logo'></img>
       <div className='creditsContent'>
         <p>
           Imaginé et écrit par{' '}
-          <a href='https://www.instagram.com/marinebaousson/' target='_blank'>
+          <a
+            href='https://www.instagram.com/marinebaousson/'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
             Marine Baousson
           </a>
         </p>
@@ -32,6 +35,7 @@ function Credits() {
           <a
             href='https://www.instagram.com/julietteponey_illustrations/?hl=fr'
             target='_blank'
+            rel='noopener noreferrer'
           >
             Juliette Poney{' '}
           </a>{' '}
@@ -43,6 +47,7 @@ function Credits() {
           <a
             href='https://66.media.tumblr.com/b71a640dbed1b6be8cc86676b309f04f/tumblr_o4m7fxnf6Z1uupfn8o1_1280.gif'
             target='_blank'
+            rel='noopener noreferrer'
           >
             ,
           </a>{' '}
@@ -50,6 +55,7 @@ function Credits() {
           <a
             href='https://twitter.com/DickKingSmith/status/1247755564685250572?s=07'
             target='_blank'
+            rel='noopener noreferrer'
           >
             ,
           </a>{' '}

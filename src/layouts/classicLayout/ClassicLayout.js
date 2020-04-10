@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import Sound from './../../components/Sound/Sound';
 
 import ClassicLink from './../../components/ClassicLink/ClassicLink';
@@ -11,7 +10,7 @@ function ClassicLayout({ children }) {
   return (
     <div className='app'>
       <div className='content-wrap'>
-        <img className='pageLogo' src={tinyLogo}></img>
+        <img className='pageLogo' src={tinyLogo} alt='logo'></img>
 
         {children}
 
