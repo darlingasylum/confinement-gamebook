@@ -1,0 +1,15 @@
+.ClassicLink {
+  color: #fbf58a;
+  font-weight: bold;
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  border: 2px solid #fbf58a;
+  transition: all 0.35s ease 0s;
+  text-decoration: none;
+}
+
+.ClassicLink:hover {
+  background: #fbf58a;
+  color: #141042;
+}

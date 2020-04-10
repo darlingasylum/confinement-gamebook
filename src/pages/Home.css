@@ -23,17 +23,3 @@
   margin: 3rem 0 3rem 0;
   max-height: 60vh;
 }
-
-.homeLink {
-  color: #fbf58a;
-  margin: 0.5rem;
-  padding: 0.5rem 1rem;
-  border-radius: 4px;
-  border: 2px solid #fbf58a;
-  transition: all 0.35s ease 0s;
-}
-
-.homeLink:hover {
-  background: #fbf58a;
-  color: #141042;
-}
