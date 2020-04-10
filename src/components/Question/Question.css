@@ -1,4 +1,6 @@
 .sectionWrapper {
+  background-color: #141042;
+  color: #fbf58a;
   width: 80%;
   max-width: 1066px;
   display: flex;
@@ -7,7 +9,6 @@
 }
 
 .section {
-  background-color: #fff;
   box-sizing: border-box;
   margin-bottom: 6rem;
   padding: 1rem 4rem 2rem 4rem;

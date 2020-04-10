@@ -3,25 +3,22 @@
 }
 
 .button {
-  padding: 0.6em 1.2em;
-  margin: 0.5em 0;
-  border: 1px solid #0a0124;
-  border-radius: 4px;
-  box-sizing: border-box;
-  text-decoration: none;
-  font-family: 'Roboto', sans-serif;
+  color: #fbf58a;
+  background-color: #141042;
   font-size: 1rem;
-  color: #0a0124;
-  text-align: center;
-  transition: all 0.2s;
-  cursor: pointer;
-  width: 100%;
+  margin: 0.5rem;
+  padding: 0.6em 1.2em;
+  border-radius: 4px;
+  border: 2px solid #fbf58a;
   transition: all 0.35s ease 0s;
+  text-decoration: none;
+  width: 100%;
+  cursor: pointer;
 }
 
 .button:hover {
-  background: #0a0124;
-  color: #fff;
+  background: #fbf58a;
+  color: #141042;
 }
 
 .withSpace {

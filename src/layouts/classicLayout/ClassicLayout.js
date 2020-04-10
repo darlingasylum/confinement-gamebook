@@ -2,21 +2,22 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Sound from './../../components/Sound/Sound';
 
+import ClassicLink from './../../components/ClassicLink/ClassicLink';
+import tinyLogo from './../../assets/tiny_logo.png';
+
 import './ClassicLayout.css';
 
 function ClassicLayout({ children }) {
   return (
     <div className='app'>
       <div className='content-wrap'>
-        <h2 className='title'> Le confinement dont vous êtes le héros</h2>
+        <img className='pageLogo' src={tinyLogo}></img>
 
         {children}
 
         <Sound></Sound>
         <div className='navigate'>
-          <Link to='/' className='questionLink'>
-            Revenir à l'accueil
-          </Link>
+          <ClassicLink text='Recommencer le jeu' to='/game' />
         </div>
         <div className='footer'>
           <a

@@ -1,4 +1,5 @@
 .app {
+  background-color: #141042;
   position: relative;
   min-height: 100vh;
 }
@@ -10,9 +11,9 @@
   padding-bottom: 2.5rem; /* Footer height */
 }
 
-.title {
-  font-size: 0.8rem;
-  padding-bottom: 10vh;
+.pageLogo {
+  margin: 1rem;
+  max-height: 15vh;
 }
 
 .navigate {
@@ -34,11 +35,6 @@
 
 .navigate a {
   font-size: 0.7rem;
-
-  color: #024b8e;
-  text-decoration: none;
-  text-align: center;
-  margin-top: 0.9rem;
 }
 
 .footer {
