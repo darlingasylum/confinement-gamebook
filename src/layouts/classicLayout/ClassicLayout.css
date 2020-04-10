@@ -17,7 +17,6 @@
 }
 
 .navigate {
-  margin-top: 1rem;
   margin-bottom: 3rem;
   display: flex;
   flex-direction: column;
@@ -51,11 +50,11 @@
 
 .footer a {
   text-align: center;
-  color: black;
   margin-top: 1rem;
   text-decoration: none;
 }
 
 .instaLink {
+  color: #455adb;
   font-size: 0.6rem;
 }

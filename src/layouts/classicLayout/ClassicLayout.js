@@ -17,7 +17,7 @@ function ClassicLayout({ children }) {
 
         <Sound></Sound>
         <div className='navigate'>
-          <ClassicLink text='Recommencer le jeu' to='/game' />
+          <ClassicLink text='Recommencer le jeu' to='/' />
         </div>
         <div className='footer'>
           <a

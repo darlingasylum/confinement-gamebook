@@ -3,3 +3,8 @@
   top: 1rem;
   right: 1rem;
 }
+
+.soundWrapper i {
+  color: #455adb;
+  font-size: 30px;
+}

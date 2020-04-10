@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import Button from './../../components/Button/Button';
 import answers from '../../res/answers.json';
-
 import questions from '../../res/questions.json';
 
 import './Question.css';
@@ -54,7 +53,8 @@ function Question({ question }) {
         'Oopsy, le corona virus est arrivé en France' && (
         <>
           <button className='backButton' onClick={goToPreviousQuestion}>
-            Je n'assume pas mon choix : revenir à la question précédente <br />
+            Je n'assume pas mon choix : <br />
+            revenir à la question précédente
           </button>
         </>
       )}
