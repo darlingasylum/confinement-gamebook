@@ -33,4 +33,7 @@
     margin: 1rem;
     max-width: 80%;
   }
+  .creditsContent {
+    padding: 1rem;
+  }
 }

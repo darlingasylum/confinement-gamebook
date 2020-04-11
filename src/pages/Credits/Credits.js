@@ -59,7 +59,7 @@ function Credits() {
           >
             ,
           </a>{' '}
-          SML{' '}
+          SML, Océan
         </p>
       </div>
       <ClassicLink text="Revenir à l'accueil" to='/' />
