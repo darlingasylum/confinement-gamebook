@@ -16,9 +16,11 @@
   cursor: pointer;
 }
 
-.button:hover {
-  background: #fbf58a;
-  color: #141042;
+@media screen and (min-width: 640px) {
+  .button:hover {
+    background: #fbf58a;
+    color: #141042;
+  }
 }
 
 .withSpace {
